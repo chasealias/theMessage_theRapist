@@ -1,0 +1,4 @@
+theMessage_theRapist
+====================
+
+Marshall McLuhan was quoted as saying the medium is the message.  Years later he finished writing his book, "The Medium is the Massage"  When asked why he changed what he said for the title of his book of Computer Age Philosophy and New Media he responded, "It must be a typo."   Genius is always well crafted and perfectly conceptualised.  theMessage_theRapist is code that will grab meta data from ideas input by users and use algorythmic data and meta data from well known quotes, philosophies and concepts.  The words from both short form statements should animate using automators and the algorithm based on the original artist whose words they ma have been,  It will ideally stand as a public work of New Media Scuplture which will grow and expand eternally. -D.S. Pollack
